@@ -1,0 +1,17 @@
+
+.card{
+    width: 310px;
+    height: 350px;
+    background-color: rgb(20, 169, 159);
+    text-align: center;
+    border-radius: 10%;
+}
+#image{
+    width: 140px;
+    height: 140px;
+    border-radius: 46%;
+}
+#up{
+    height: 10px;
+    width: 10px;
+}
